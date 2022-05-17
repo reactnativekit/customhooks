@@ -12,7 +12,7 @@ function ThirdComponent(props){
 	return (
 		
 		<View>
-			<Text style={styles.FSText}>This is the Third Component</Text>
+			<Text style={styles.FSText}>This is the Third Component. Hello</Text>
 			<Button title="Click here!" onPress={clickedButton}/>
 		</View>
 	);
